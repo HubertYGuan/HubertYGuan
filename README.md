@@ -7,7 +7,7 @@ I am a computer engineering student at UC Santa Barbara pursuing dreams of becom
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-guan-80a121329/)
 ---
-👩‍💻 I'm currently working on [Pengwing](https://github.com/pengwing-project): an operating system for leveraging software abstractions for heterogenous SoCs.
+👩‍💻 I'm currently working on porting OpenPrinting software to the Zephyr OS (GSoC 2025) and [Pengwing](https://github.com/pengwing-project): an operating system for leveraging software abstractions for heterogeneous SoCs.
 
 🧠 I'm currently learning more about computer architecture, RTL, and the FOSS landscape.
 
